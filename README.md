@@ -1,1 +1,1 @@
-# Kadak2025_alpha-subharmonics-rtms-eegamic
+# Kadak2025_alpha-subharmonics-rtms-eeg
