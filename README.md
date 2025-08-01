@@ -4,6 +4,7 @@ This repository contains the code and results for the manuscript "Alpha rhythm s
 
 ## Folders
 `code` contains the .py files for generating
-`notebooks` contains the .ipynb files visualizing the final results and figures
-`data` contains the data object storing the results permutation data, including heatmaps and distributions
-`parameters` contains the .conf file for the initial/state variable parameters of the model simulations upon which iTBS and IAF permutations are generated
+`data` contains the data object storing the results data based on iTBS and IAF permutations, including heatmaps and distributions.
+`notebooks` contains the .ipynb files for using SynPy visualizing the final results and figures.
+`parameters` contains the .conf file for the initial/state variable parameters of the model simulations upon which iTBS and IAF permutations are generated.
+`SynPy` is a copy of my custom Python library that wraps NFTsim and provides a toolkit for data analysis, found [here](https://github.com/GriffithsLab/SynPy).
